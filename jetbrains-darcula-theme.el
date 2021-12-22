@@ -29,7 +29,7 @@
 (deftheme jetbrains-darcula)
 (let ((class '((class color) (min-colors 89)))
       (fg0                "#8997a6")
-      (fg1                "#a9b7c6") ; default fg
+      (fg1                "#cfd2d5") ; default fg
       (fg2                "#cccccc")
       (fg3                "#e8e8e8")
       (fg4                "#fafafa")
